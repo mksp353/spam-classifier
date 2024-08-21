@@ -13,6 +13,8 @@ Subject: The subject line of the email.
 
 Label: The classification label, where 1 represents spam and 0 represents not spam.
 
+The original data is stored in a file named spam_ham_dataset.csv from Kaggel (https://www.kaggle.com/datasets/venky73/spam-mails-dataset)
+
 
 **Requirements**
 
